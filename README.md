@@ -1,2 +1,3 @@
 # Frontend-project
-Frontend project using HTML and CSS
+Developed and designed a responsive, AI-focused business website
+for NeuSpaarX. using HTML and CSS.
